@@ -1,0 +1,24 @@
+
+7com.baeldung.kotlindsl.Reporter$StockSymbol#hashCode()Iò
+ç/home/lukas/Code-GitHub/sonar-scanning-examples/sonarqube-scanner-gradle/gradle-kotlin-dsl/src/main/java/com/baeldung/kotlindsl/Reporter.javaG G("1*⁄
+1H H(Ñ
+Å
+H  H(&
+%0java.lang.String"__id*W
+
+__unknown_file (;*9-
++com.baeldung.kotlindsl.Reporter$StockSymbol"
+symbolØ
+¨
+H H('	
+%1int",java.util.Objects#hash([Ljava/lang/Object;)I*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%0java.lang.String"
+H H((
+""B/-
++com.baeldung.kotlindsl.Reporter$StockSymbolHP

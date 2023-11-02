@@ -1,0 +1,45 @@
+
+lcom.baeldung.kotlindsl.Reporter#getStockPrice(Lcom/baeldung/kotlindsl/Reporter$StockSymbol;)Ljava/util/List;ò
+ç/home/lukas/Code-GitHub/sonar-scanning-examples/sonarqube-scanner-gradle/gradle-kotlin-dsl/src/main/java/com/baeldung/kotlindsl/Reporter.java ()"1*π
+1 (Ö
+Ç
+ (#
+%0com.baeldung.kotlindsl.Sorter"__id*K
+
+__unknown_file (/*-!
+com.baeldung.kotlindsl.Reporter"
+sorterç
+ä
+ (%'
+%1!com.baeldung.kotlindsl.Repository"__id*O
+
+__unknown_file (3*1!
+com.baeldung.kotlindsl.Reporter"
+
+repositoryÚÔ
+ (@
+%2java.util.List"ncom.baeldung.kotlindsl.Repository#getStockPrice(Lcom/baeldung/kotlindsl/Reporter$StockSymbol;)Ljava/util/List;*E
+
+__unknown_file ()
+'
+%1!com.baeldung.kotlindsl.Repository*X
+
+__unknown_file (<
+:
+stockSymbol+com.baeldung.kotlindsl.Reporter$StockSymbol2<getStockPrice(Lcom/baeldung/kotlindsl/Reporter$StockSymbol;)¯ı
+ (A
+%3java.util.List"Dcom.baeldung.kotlindsl.Sorter#sort(Ljava/util/List;)Ljava/util/List;*A
+
+__unknown_file (%
+#
+%0com.baeldung.kotlindsl.Sorter*2
+
+__unknown_file (
+
+%2java.util.List2sort(Ljava/util/List;)""
+ (B
+
+%3java.util.List:F
+* (A:
+stockSymbol+com.baeldung.kotlindsl.Reporter$StockSymbolB#!
+com.baeldung.kotlindsl.ReporterH

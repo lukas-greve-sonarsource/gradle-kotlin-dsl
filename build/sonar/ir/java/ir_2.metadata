@@ -1,0 +1,7 @@
+com.baeldung.kotlindsl.Sorter#sort(Ljava/util/List;)Ljava/util/List;
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+java.util.Comparator#comparing(Ljava/util/function/Function;)Ljava/util/Comparator;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;
+sorted java.util.stream.Stream#sorted(Ljava/util/Comparator;)Ljava/util/stream/Stream;

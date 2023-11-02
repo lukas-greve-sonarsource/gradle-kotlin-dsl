@@ -1,0 +1,35 @@
+
+6com.baeldung.kotlindsl.Reporter$StockPrice#hashCode()Iò
+ç/home/lukas/Code-GitHub/sonar-scanning-examples/sonarqube-scanner-gradle/gradle-kotlin-dsl/src/main/java/com/baeldung/kotlindsl/Reporter.java- -("1*°
+1. .(Ü
+É
+.  .(%
+%0java.math.BigDecimal"__id*U
+
+__unknown_file (9*7,
+*com.baeldung.kotlindsl.Reporter$StockPrice"
+priceá
+Ñ
+.' .(0
+%1java.time.Instant"__id*Y
+
+__unknown_file (=*;,
+*com.baeldung.kotlindsl.Reporter$StockPrice"
+	timestampÍ
+Á
+. .(1	
+%2int",java.util.Objects#hash([Ljava/lang/Object;)I*1
+
+__unknown_file ("
+java.util.Objects*8
+
+__unknown_file (
+
+%0java.math.BigDecimal*5
+
+__unknown_file (
+
+%1java.time.Instant"
+. .(2
+""B.,
+*com.baeldung.kotlindsl.Reporter$StockPriceHP

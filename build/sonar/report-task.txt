@@ -1,0 +1,6 @@
+projectKey=lukas-greve-sonarsource_sonar-scanning-examples_AYuPf-g70JMF1BK5Xa9B
+serverUrl=https://lg-sonarqube.ngrok.io
+serverVersion=10.2.1.78527
+dashboardUrl=https://lg-sonarqube.ngrok.io/dashboard?id=lukas-greve-sonarsource_sonar-scanning-examples_AYuPf-g70JMF1BK5Xa9B
+ceTaskId=AYuPpPe40JMF1BK5Xa9j
+ceTaskUrl=https://lg-sonarqube.ngrok.io/api/ce/task?id=AYuPpPe40JMF1BK5Xa9j

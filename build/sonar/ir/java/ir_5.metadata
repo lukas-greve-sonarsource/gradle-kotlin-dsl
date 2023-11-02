@@ -1,0 +1,4 @@
+com.baeldung.kotlindsl.Reporter#getStockPrice(Lcom/baeldung/kotlindsl/Reporter$StockSymbol;)Ljava/util/List;
+==
+getStockPrice com.baeldung.kotlindsl.Repository#getStockPrice(Lcom/baeldung/kotlindsl/Reporter$StockSymbol;)Ljava/util/List;
+sort com.baeldung.kotlindsl.Sorter#sort(Ljava/util/List;)Ljava/util/List;

@@ -1,0 +1,29 @@
+
+åcom.baeldung.kotlindsl.Reporter$StockPrice#stockPrice(Ljava/math/BigDecimal;Ljava/time/Instant;)Lcom/baeldung/kotlindsl/Reporter$StockPrice;ò
+ç/home/lukas/Code-GitHub/sonar-scanning-examples/sonarqube-scanner-gradle/gradle-kotlin-dsl/src/main/java/com/baeldung/kotlindsl/Reporter.java !  (+"1*˘
+1!" !('jh
+! !(!0
+%0*com.baeldung.kotlindsl.Reporter$StockPrice"*com.baeldung.kotlindsl.Reporter$StockPriceΩ
+∫
+! !(3
+%1"]com.baeldung.kotlindsl.Reporter$StockPrice#<init>(Ljava/math/BigDecimal;Ljava/time/Instant;)V*N
+
+__unknown_file (2
+0
+%0*com.baeldung.kotlindsl.Reporter$StockPrice*;
+
+__unknown_file (
+
+pricejava.math.BigDecimal*<
+
+__unknown_file ( 
+
+	timestampjava.time.Instant">
+! !(42
+0
+%0*com.baeldung.kotlindsl.Reporter$StockPrice:)
+ ,  (=
+pricejava.math.BigDecimal:*
+ >  (O
+	timestampjava.time.InstantB.",
+*com.baeldung.kotlindsl.Reporter$StockPriceH

@@ -1,0 +1,89 @@
+
+Gcom.baeldung.kotlindsl.Reporter$StockSymbol#equals(Ljava/lang/Object;)Zò
+ç/home/lukas/Code-GitHub/sonar-scanning-examples/sonarqube-scanner-gradle/gradle-kotlin-dsl/src/main/java/com/baeldung/kotlindsl/Reporter.java? ?("startingBlock*!
+2A@ A(E"
+A9 A(F
+""*Ÿ
+3A A(%´®
+A A('
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*K
+
+__unknown_file (/-
++com.baeldung.kotlindsl.Reporter$StockSymbol2
+getClass()ìê
+A+ A(7
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()*
+2
+1*Ü
+startingBlock? ?('à
+Ö
+> >(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+?% ?(&
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%5*	
+2
+3
+5*!
+5@" @(&"
+@ @('
+""*≤
+1B- B(.|
+z
+B B(/3
+that+com.baeldung.kotlindsl.Reporter$StockSymbol"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectÑ
+Å
+C" C((
+%2java.lang.String"__id*W
+
+__unknown_file (;*9-
++com.baeldung.kotlindsl.Reporter$StockSymbol"
+symbolä
+á
+C* C(5
+%3java.lang.String"__id*]
+
+__unknown_file (A*?
+3
+that+com.baeldung.kotlindsl.Reporter$StockSymbol"
+symbol¸
+˘
+C C(6
+%4boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%2java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String"
+C C(7
+"":!
+? ?(&
+ojava.lang.ObjectB/-
++com.baeldung.kotlindsl.Reporter$StockSymbolHP
